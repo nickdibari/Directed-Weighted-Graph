@@ -34,7 +34,8 @@ public : 			// 4 public member functions
   } 	           
 
 
-private :			// 1 private data member
-	int  value; 		// could be any type 
+private :			
+	int  value; 		 
 } ;
-#endif	
+#endif
+	
